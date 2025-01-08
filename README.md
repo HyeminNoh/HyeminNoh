@@ -1,4 +1,4 @@
-## 😄 Hello, I'm Hyemin ![Profile views](https://gpvc.arturio.dev/HyeminNoh)
+## 😄 Hello, I'm Hyemin
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HyeminNoh&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
